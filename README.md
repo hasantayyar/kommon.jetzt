@@ -1,7 +1,3 @@
-title: Zukunft, Utopie, Aktion
----
-
-
 # kommon.jetzt
 
-![kommon.jetzt](logo.png)
+![kommon.jetzt - Zukunft, Utopie, Aktion](logo.png)
